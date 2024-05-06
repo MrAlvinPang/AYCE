@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AYCEMenu.Server", "AYCEMenu.Server\AYCEMenu.Server.csproj", "{A5D2C2AB-B99D-4C61-90A1-C07ACC16CDC8}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "aycemenu.client", "aycemenu.client\aycemenu.client.esproj", "{B0C4580B-13B0-4AF4-AB75-89B322AEE8F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D2C2AB-B99D-4C61-90A1-C07ACC16CDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D2C2AB-B99D-4C61-90A1-C07ACC16CDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D2C2AB-B99D-4C61-90A1-C07ACC16CDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D2C2AB-B99D-4C61-90A1-C07ACC16CDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C4580B-13B0-4AF4-AB75-89B322AEE8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C4580B-13B0-4AF4-AB75-89B322AEE8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C4580B-13B0-4AF4-AB75-89B322AEE8F3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B0C4580B-13B0-4AF4-AB75-89B322AEE8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C4580B-13B0-4AF4-AB75-89B322AEE8F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C4580B-13B0-4AF4-AB75-89B322AEE8F3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58357CF3-09BE-4B5B-A7B9-113D832A3024}
+	EndGlobalSection
+EndGlobal

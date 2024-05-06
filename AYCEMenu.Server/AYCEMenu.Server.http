@@ -1,0 +1,6 @@
+@AYCEMenu.Server_HostAddress = http://localhost:5167
+
+GET {{AYCEMenu.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
